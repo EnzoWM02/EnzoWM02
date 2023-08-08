@@ -1,8 +1,7 @@
-### Descrição
+## Hi, I'm Enzo!
+I'm a brazilian Full Stack developer with almost two years of professional experience.
 
-Oi, eu sou o Enzo!
+I invite you to know me better by accessing my Portfolio Website
 
-- Java
-- JavaScript
-- ReactJS
-- PostgreSQL
+:link: [Official Portfolio](https://enzomosman.com)
+
